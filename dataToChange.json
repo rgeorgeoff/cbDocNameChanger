@@ -1,0 +1,19 @@
+{
+   "gs":
+   {
+       "__prefix:cookie-jam-staging":"__prefix:cookie-jam",
+       "__prefix:panda-pop-staging":"__prefix:panda-pop",
+       "__Files:cookie-jam-staging":"__Files:cookie-jam",
+       "__Files:panda-pop-staging":"__Files:panda-pop",
+       "__Apps:cookie-jam-staging":"__Apps:cookie-jam",
+       "__Apps:panda-pop-staging":"__Apps:panda-pop",
+       "__CRM:cookie-jam-staging":"__CRM:cookie-jam",
+       "__CRM:panda-pop-staging":"__CRM:panda-pop",
+       "__DLCFiles:cookie-jam-staging":"__DLCFiles:cookie-jam"
+   },
+   "admin": 
+   {
+       "Game:cookie-jam-staging": "Game:cookie-jam",
+       "Game:panda-pop-staging": "Game:panda-pop"
+   }
+}
